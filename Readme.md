@@ -32,6 +32,9 @@
 docker compose up --build
 </code></pre>
 
+### 📸 Output Screenshot 1
+<img src="screenshots/output1.png" width="600">
+
 <p>This automatically:</p>
 <ul>
   <li>Creates a custom Docker network</li>
@@ -134,6 +137,9 @@ Inserted row with ID: 1
 +----+----------------+
 </code></pre>
 
+### 📸 Output Screenshot 2
+<img src="screenshots/output2.png" width="600">
+
 <hr>
 <hr>
 
@@ -154,6 +160,9 @@ docker compose down
   <li>python_app → Logs</li>
   <li>postgres → Logs</li>
 </ul>
+
+### 📸 Final Logs Screenshot
+<img src="screenshots/output4.png" width="600">
 
 <b>Reset database:</b>
 <pre><code class="bash">
