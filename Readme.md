@@ -32,7 +32,7 @@
 docker compose up --build
 </code></pre>
 
-### 📸 Output Screenshot 1
+###  Output Screenshot 1
 <img src="screenshots/output1.png" width="600">
 
 <p>This automatically:</p>
@@ -137,7 +137,7 @@ Inserted row with ID: 1
 +----+----------------+
 </code></pre>
 
-### 📸 Output Screenshot 2
+###  Output Screenshot 2
 <img src="screenshots/output2.png" width="600">
 
 <hr>
@@ -161,8 +161,8 @@ docker compose down
   <li>postgres → Logs</li>
 </ul>
 
-### 📸 Final Logs Screenshot
-<img src="screenshots/output4.png" width="600">
+###  Logs Screenshot
+<img src="screenshots/output3.png" width="600">
 
 <b>Reset database:</b>
 <pre><code class="bash">
