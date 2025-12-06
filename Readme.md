@@ -67,6 +67,8 @@ docker-python-postgres-task/
 ├── Dockerfile
 ├── requirements.txt
 └── docker-compose.yml
+└── screenshots
+
 </code></pre>
 
 <hr>
@@ -192,4 +194,4 @@ Inserted row with ID: 2
 <hr>
 
 <h2>Author</h2>
-<p><b>Saideep</b><br>Beginner DevOps Engineer<br>Passionate about Docker, automation, and cloud 🚀</p>
+<p><b>Saideep</b><br>Beginner DevOps Engineer<br>Passionate about Docker, automation, and cloud </p>
